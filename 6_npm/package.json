@@ -1,0 +1,19 @@
+{
+  "name": "6_npm",
+  "version": "1.0.0",
+  "description": "initial npm and install different type of external module and use them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "node.js"
+  ],
+  "author": "Ibrahim Khalil",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.5"
+  }
+}
